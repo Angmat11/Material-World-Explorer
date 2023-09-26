@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Material World Explorer</title>
+    <!-- Add stylesheets, scripts, and other meta tags here -->
+</head>
+<body>
+
+    <!-- Homepage -->
+    <section id="homepage">
+        <h1>Welcome to Material World Explorer!</h1>
+        <p>Brief introduction about materials and their importance.</p>
+        <!-- Placeholder for the animated video -->
+        <div id="intro-video">Animated Video Here</div>
+    </section>
+
+    <!-- Material Library -->
+    <section id="material-library">
+        <h2>Material Library</h2>
+        <div class="material" id="metals">Metals</div>
+        <div class="material" id="plastics">Plastics</div>
+        <!-- ... Add other material categories ... -->
+    </section>
+
+    <!-- Interactive Activities -->
+    <section id="interactive-activities">
+        <h2>Interactive Activities</h2>
+        <!-- Placeholders for the described activities -->
+        <div id="material-match">Material Match Game Here</div>
+        <div id="virtual-lab">Virtual Lab Activity Here</div>
+        <div id="guess-material">Guess the Material Activity Here</div>
+    </section>
+
+    <!-- Teacher's Corner -->
+    <section id="teachers-corner">
+        <h2>Teacher's Corner</h2>
+        <p>Resources, discussion points, and activity ideas for teachers.</p>
+    </section>
+
+    <!-- Quiz Zone -->
+    <section id="quiz-zone">
+        <h2>Quiz Zone</h2>
+        <!-- Placeholder for quizzes -->
+        <div id="quiz">Quizzes Here</div>
+    </section>
+
+    <!-- Explore More -->
+    <section id="explore-more">
+        <h2>Explore More</h2>
+        <!-- Placeholders for links and QR codes -->
+        <div id="external-links">External Links Here</div>
+        <div id="qr-codes">QR Codes Here</div>
+    </section>
+
+    <!-- Feedback & Support -->
+    <section id="feedback-support">
+        <h2>Feedback & Support</h2>
+        <!-- Placeholder for feedback form or contact method -->
+        <div id="feedback-form">Feedback Form Here</div>
+    </section>
+
+    <!-- Footer or any other additional sections can be added here -->
+
+</body>
+</html>
